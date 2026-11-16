@@ -1,0 +1,19 @@
+Connect to your servers from Android with BoostSSH. Open SSH and Mosh sessions, organise reusable connections and identities, and keep an encrypted backup in your own Google Drive.
+
+REMOTE ACCESS
+• SSH terminal sessions with password or private-key identities
+• Mosh, Telnet and a local shell
+• Port forwarding, connection groups and reusable snippets
+• Host-key verification for SSH and Mosh
+• Terminal appearance and input settings
+
+ENCRYPTED BACKUP AND SYNC
+Optionally connect your Google account to back up and sync personal connections through Google Drive’s private application storage. Backup contents are encrypted on your device before upload. Save your recovery key so you can unlock your backup on another device. You can also import and export passphrase-encrypted local backup files without connecting Google Drive.
+
+SHARED COLLECTIONS
+Share selected connections with a team using Google Drive permissions and a separate collection code. Reader and editor roles control collection access. Personal connections stay separate, and you can keep a private identity on your own devices. Shared collections request additional Drive access.
+
+YOUR DATA
+BoostSSH has no developer account, advertising or developer analytics. Connections go directly to servers you choose. Optional backup and sharing use your Google Drive account. The developer cannot decrypt your Drive backup or recover a lost recovery key. See the privacy policy for details about Google services and user-requested connections.
+
+Requires Android 16 or later. A Google account is optional for local terminal and connection-management features. Remote connections require access to the destination server. Telnet does not provide encrypted transport.
