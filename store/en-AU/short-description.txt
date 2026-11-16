@@ -1,1 +1,1 @@
-SSH terminal with Mosh, port forwarding and encrypted Google Drive sync.
+SSH, Mosh and Kubernetes tools with encrypted Google Drive connection sync.
